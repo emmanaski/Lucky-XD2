@@ -15,7 +15,7 @@ function convertToBool(text, trueValue = 'true') {
 
 module.exports = {
   // ===== BOT CORE SETTINGS =====
-  SESSION_ID: settings.SESSION_ID || process.env.SESSION_ID || "",
+  SESSION_ID: settings.SESSION_ID || process.env.SESSION_ID || "LuckyM2-H4sIAAAAAAAAA5WUW5OqOBSF/0tetY7cRau6auQmN2+gok7NQ4SAaREwCSKe8r9P0X369HmYOdPzFpJi7y9rrZ3voCgxRR5qwfg7qAi+QYa6JWsrBMZAq9MUEdAHCWQQjEHjE6cispEI9HqelcFKC9KgmNPRbDU9SM5xR07efBP6hbl/Ac8+qOpjjuPfFOwl59c5JxAjPiqqITpUmRGbBcyvqinVpUM7rHMnIuiRNS/g2VWEmOAiM6sTuiACcw+1S4jJ1/Aznd+nohqeh8bOm+YhaqC32LJjTMp77IleE/PqJhOMjTX7Gv7M5A474bA+DuEG35fUj5Gwf4WkOS3W5WDh7u1It1bJcLQu3/EpzgqUOAkqGGbtl3XPjJzbWJ7vnbjoftOarR9OehMqBj3hVVjf1o46Mo7lirn25mvgt9X6OD27TJ/TeamS9e40dQOVTTX5OhlEIit5jG7FFR849VfwJfnIyvn/6D71B5oplqJvX3vOSCzr24zHr/qsVDnvwhEhGNWzfa2Ixrn5Gv7mvDtvF47lSIFXJq/iMd2lMceqbThrm2DSGukgVDkJy4/sEx+ymvyOsnUDA1/m3tyv6zXascFloVA5CA5UZBcnUJZTqZGGGbnsHr3laagv5QeVcrenXSdn2VrHtuYWRMJrxYvcSHl1WR3ALHt5u9EZtU4CxvyzDwjKMGUEMlwW3Z7AD/sAJrcQxQSxN3lBbPrHQ2AthNA5CiNtG+nWMTh5drhqSm8QyES6O6FaEb6YvYA+qEgZI0pRYmPKStLOEKUwQxSM//yrDwp0Z+/Gde1Evg9STCjbFHWVlzD5cPXjEMZxWRcsbItY7xaIgDH3uY0Yw0VGOx3rApL4hG9IP0FGwTiFOUU/b4gISsCYkRr9nFq9TDrhLS3k917kgz64vBmCEzAGgiiNeEUYyUNZkccS/wf91nR1YVV9KxDrVPzB0P2SIAZxTsEY6A6KBnJsmzMxUUfOdDoxs4meTcAn84f57+La2rUnKo4sVU4g3uxKpTEiQWSXS43359HA4LcFxq9ZGJgv/1AEjIGZR9fRoHcKHsUsLrmNMXEHGvO0wn6Us1RPNlHucvIiUUQjblg7nN70yrivBitz8LDXI8w3YrTyiYrNqO1ZhbFMVq2+eum6JeiGY/RrM48zz6112U1WOdzAx/AMLWTcPT9zbWj3pgd3JQjcPl/LLeq11tUdbKBiKUa6FQLeMvX7pBdsR9t1ll7knbTpqQ96GmXNeyzfxiL/8Rzht8B0bnSfKUZv013AzqP/dOeDvEsR9+z/UuTHg/EvQ6cFDbyxHl4gLzST4V1Jfdu+ctuTYjRJ+NjemtH2IJWlZJ4D8Hz+1QdVDllakgsYA1gkpMQJ6ANS1l0snSItf9NMn3COtsrC7uo5pGzyGfU1viDK4KUCY36oStJQFiXl+TdrUoivIAcAAA==",
   PREFIX: getConfig("PREFIX") || "." || settings.PREFIX,
   CHATBOT: getConfig("CHATBOT") || "on",
   BOT_NAME: process.env.BOT_NAME || getConfig("BOT_NAME") || "ʟᴜᴄᴋʏ-xᴅ",
@@ -24,8 +24,8 @@ module.exports = {
   BAILEYS: process.env.BAILEYS || "@whiskeysockets/baileys",
 
   // ===== OWNER & DEVELOPER SETTINGS =====
-  OWNER_NUMBER: settings.OWNER_NUMBER || process.env.OWNER_NUMBER || "256789966218",
-  OWNER_NAME: process.env.OWNER_NAME || getConfig("OWNER_NAME") || "ʟᴜᴄᴋʏ ➋➊➑",
+  OWNER_NUMBER: settings.OWNER_NUMBER || process.env.OWNER_NUMBER || "2349162957565",
+  OWNER_NAME: process.env.OWNER_NAME || getConfig("OWNER_NAME") || "EMMANUEL✨",
   DEV: process.env.DEV || "256789966218",
   DEVELOPER_NUMBER: '256789966218@s.whatsapp.net',
   MENU_AUDIO_URL: process.env.MENU_AUDIO_URL || 'https://files.catbox.moe/3v5i11.mp3',
